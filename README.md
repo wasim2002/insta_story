@@ -1,2 +1,1 @@
-#⚠️
-ji
+⚠️ Before looking this project
